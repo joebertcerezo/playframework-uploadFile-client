@@ -1,0 +1,29 @@
+Release Notes
+
+- 7965bcce Merge pull request #1 from joebertcerezo/feature/addTailwind
+- 7396f2ec Update vite.config.ts
+- a57150e8 Delete HomeView.vue
+- 2ee9cfaf Delete AboutView.vue
+- bbbf4c3f Update counter.ts
+- 6b120070 Update index.ts
+- dc5001f2 Update main.ts
+- db991f3e Delete WelcomeItem.vue
+- a808a977 Delete TheWelcome.vue
+- a69c4422 Delete IconTooling.vue
+- 122a7d63 Delete IconSupport.vue
+- 7534a2b1 Delete IconEcosystem.vue
+- afb92138 Delete IconDocumentation.vue
+- 61c73865 Delete IconCommunity.vue
+- 53f98525 Delete HelloWorld.vue
+- 1b575d02 Create Dashboard.vue
+- 34a2473b Update main.css
+- 659b7b7e Update App.vue
+- 2b7ced7d Update package.json
+- 63c0f53f Create package-lock.json
+- abe7b303 Update index.html
+- 9f167462 Update eslint.config.ts
+- 10ebea90 Update .prettierrc.json
+- b63174bb Create .prettierignore
+- 3e1d7288 Remove .vscode
+- d9f91a94 Update .gitignore
+- 34947a1e initial commit

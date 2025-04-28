@@ -1,29 +1,15 @@
 Release Notes
 
-- 7965bcce Merge pull request #1 from joebertcerezo/feature/addTailwind
-- 7396f2ec Update vite.config.ts
-- a57150e8 Delete HomeView.vue
-- 2ee9cfaf Delete AboutView.vue
-- bbbf4c3f Update counter.ts
-- 6b120070 Update index.ts
-- dc5001f2 Update main.ts
-- db991f3e Delete WelcomeItem.vue
-- a808a977 Delete TheWelcome.vue
-- a69c4422 Delete IconTooling.vue
-- 122a7d63 Delete IconSupport.vue
-- 7534a2b1 Delete IconEcosystem.vue
-- afb92138 Delete IconDocumentation.vue
-- 61c73865 Delete IconCommunity.vue
-- 53f98525 Delete HelloWorld.vue
-- 1b575d02 Create Dashboard.vue
-- 34a2473b Update main.css
-- 659b7b7e Update App.vue
-- 2b7ced7d Update package.json
-- 63c0f53f Create package-lock.json
-- abe7b303 Update index.html
-- 9f167462 Update eslint.config.ts
-- 10ebea90 Update .prettierrc.json
-- b63174bb Create .prettierignore
-- 3e1d7288 Remove .vscode
-- d9f91a94 Update .gitignore
-- 34947a1e initial commit
+- e6b3ddaf Merge pull request #3 from joebertcerezo/feature/addShadCn
+- 1acd2104 Update tsconfig.json
+- 66b98cc9 Update tsconfig.app.json
+- 4878eca6 Create utils.ts
+- 70f78a65 Update Dashboard.vue
+- d82857c8 Update main.css
+- d7727675 Delete base.css
+- 292b99ce Update package.json
+- d6fddbb7 Update package-lock.json
+- 3d40ca35 Create components.json
+- 11133037 Merge tag 'v0.1.0' into develop
+- 4ef933cd Merge branch 'release/v0.1.0'
+- be367e38 Create CHANGELOG.md

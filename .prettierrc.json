@@ -1,6 +1,25 @@
 {
   "$schema": "https://json.schemastore.org/prettierrc",
-  "semi": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "vueIndentScriptAndStyle": true,
   "singleQuote": true,
-  "printWidth": 100
+  "semi": false,
+  "plugins": [
+    "@trivago/prettier-plugin-sort-imports",
+    "prettier-plugin-tailwindcss"
+  ],
+  "importOrder": [
+    "^vue(.*)$",
+    "<THIRD_PARTY_MODULES>",
+    "^@/components/(.*)$",
+    "^@/composables/(.*)$",
+    "^@/stores/(.*)$",
+    "^@/schema/(.*)$",
+    "^@/types/(.*)$",
+    "^@/utililities/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
 }
